@@ -61,7 +61,3 @@ node fileOperations.js
 ## 📜 License
 
 This project is licensed under the MIT License — you're free to use, share, and learn from it!
-
-```
-
-```
