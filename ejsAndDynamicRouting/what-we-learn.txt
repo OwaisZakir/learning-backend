@@ -1,0 +1,11 @@
+1) setting up parsers for form
+
+2) setting up ejs for ejs pages 
+        install using npm
+        setup ejs as a view engine
+
+3) setting up public and static files 
+
+4) dynamic routing 
+        dynamic routing
+        how to get  data coming from frontEnd and backend 
