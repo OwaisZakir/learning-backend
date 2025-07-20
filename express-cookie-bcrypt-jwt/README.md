@@ -39,7 +39,7 @@ project/
 1. **Clone the repository:**
 
 ```bash
-[git clone https://github.com/your-username/express-cookies-bcrypt-jwt.git](https://github.com/OwaisZakir/learning-backend.git)
+https://github.com/OwaisZakir/learning-backend.git
 cd express-cookies-bcrypt-jwt
 ```
 
